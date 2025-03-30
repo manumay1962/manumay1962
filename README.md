@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-jaishu&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-jaishu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manumay&label=Profile%20views&color=0e75b6&style=flat" alt="manumay" /> </p>
 
 - 🌱 I'm Enhancing WebDev skills and deepening DSA knowledge.**
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://x.com/ManumayRaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamjaishu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/manumay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-jaiswal" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100005855805000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubham jaishu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100005855805000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manumay" height="30" width="40" /></a>
 
 <a href="https://leetcode.com/u/manumay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sjaishu" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/manumay8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamq0xs" height="30" width="40" /></a>
